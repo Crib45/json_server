@@ -1,1 +1,60 @@
-
+{
+	"stanovi": [
+		{
+			"id": 1,
+			"vlasnik_id": 1,
+			"lift": true,
+			"lokacija": "Centar grada",
+			"sprat": 2,
+			"grejanje": true,
+			"parkiranje": true,
+			"cena": 5000,
+			"grad": "Nis",
+			"velicina": 50,
+			"napomena": "Neka napomena",
+			"starost": 2
+		},
+		{
+			"id": 2,
+			"vlasnik_id": 1,
+			"lift": true,
+			"lokacija": "Udaljeno od grada",
+			"sprat": 2,
+			"grejanje": false,
+			"parkiranje": true,
+			"cena": 54000,
+			"grad": "Beograd",
+			"velicina": 50,
+			"napomena": "Neka napomena",
+			"starost": 2
+		},
+		{
+			"id": 3,
+			"vlasnik_id": 1,
+			"lift": true,
+			"lokacija": "Centar grada",
+			"sprat": 2,
+			"grejanje": true,
+			"parkiranje": true,
+			"cena": 5000,
+			"grad": "Nis",
+			"velicina": 50,
+			"napomena": "Neka napomena",
+			"starost": 2
+		},
+		{
+			"id": 4,
+			"vlasnik_id": 1,
+			"lift": true,
+			"lokacija": "Centar grada",
+			"sprat": 2,
+			"grejanje": true,
+			"parkiranje": true,
+			"cena": 5000,
+			"grad": "Nis",
+			"velicina": 50,
+			"napomena": "Neka napomena",
+			"starost": 2
+		}
+	]
+}
