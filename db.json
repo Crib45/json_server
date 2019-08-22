@@ -16,7 +16,7 @@
 		},
 		{
 			"id": 2,
-			"vlasnik_id": 1,
+			"vlasnik_id": 2,
 			"lift": true,
 			"lokacija": "Udaljeno od grada",
 			"sprat": 2,
@@ -39,12 +39,12 @@
 			"cena": 5000,
 			"grad": "Nis",
 			"velicina": 50,
-			"napomena": "Neka napomena",
+			"napomena": "Treci",
 			"starost": 2
 		},
 		{
 			"id": 4,
-			"vlasnik_id": 1,
+			"vlasnik_id": 3,
 			"lift": true,
 			"lokacija": "Centar grada",
 			"sprat": 2,
