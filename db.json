@@ -64,7 +64,6 @@
 			"cena": 5000,
 			"grad": "Nis",
 			"velicina": 50,
-			"napomena": "Neka napomena",
 			"tipgradnje": "Neki tip gradnje",
 			"napomena": "Neka napomena"
 	},
@@ -74,7 +73,6 @@
 			"cena": 5000,
 			"grad": "Nis",
 			"velicina": 50,
-			"napomena": "Neka napomena",
 			"tipgradnje": "Neki tip gradnje",
 			"napomena": "Neka napomena"
 	},
@@ -84,7 +82,6 @@
 			"cena": 5000,
 			"grad": "Nis",
 			"velicina": 50,
-			"napomena": "Neka napomena",
 			"tipgradnje": "Neki tip gradnje",
 			"napomena": "Neka napomena"
 	},
@@ -94,7 +91,6 @@
 			"cena": 5000,
 			"grad": "Nis",
 			"velicina": 50,
-			"napomena": "Neka napomena",
 			"tipgradnje": "Neki tip gradnje",
 			"napomena": "Neka napomena"
 	}
