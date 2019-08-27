@@ -177,5 +177,60 @@
 		"prezime": "Milojevic",
 		"telefon": 21321321,
 		"email": "nekimail@gmail.com"
-	}]
+	}],
+	"poslovniprostor":[
+	{
+	"id":1,
+	"cena": 25000,
+	"grad": "Nis",
+	"lokacija": "Centar",
+	"velicina": 25,
+	"napomena": "nesto",
+	"vlasnik_id": "1"
+	},{
+	"id":2,
+	"cena": 25000,
+	"grad": "Nis",
+	"lokacija": "Centar",
+	"velicina": 25,
+	"napomena": "nesto",
+	"vlasnik_id": "1"
+	},
+	{
+	"id":3,
+	"cena": 25000,
+	"grad": "Nis",
+	"lokacija": "Centar",
+	"velicina": 25,
+	"napomena": "nesto",
+	"vlasnik_id": "1"
+	},
+	{
+	"id":4,
+	"cena": 25000,
+	"grad": "Nis",
+	"lokacija": "Centar",
+	"velicina": 25,
+	"napomena": "nesto",
+	"vlasnik_id": "1"
+	},
+	{
+	"id":5,
+	"cena": 25000,
+	"grad": "Nis",
+	"lokacija": "Centar",
+	"velicina": 25,
+	"napomena": "nesto",
+	"vlasnik_id": "1"
+	},
+	{
+	"id":6,
+	"cena": 25000,
+	"grad": "Nis",
+	"lokacija": "Centar",
+	"velicina": 25,
+	"napomena": "nesto",
+	"vlasnik_id": "1"
+	},
+	]
 }
