@@ -94,5 +94,52 @@
 			"tipgradnje": "Neki tip gradnje",
 			"napomena": "Neka napomena"
 	}
+	],
+	"vikendice":[
+	{
+			"id": 1,
+			"vlasnik_id": 1,
+			"cena": 50100,
+			"lokacija": "Okolina Nisa",
+			"velicina": 20,
+			"velicinaplaca": 20,
+			"napomena":"neka napomena"
+			},
+			{
+			"id": 2,
+			"vlasnik_id": 2,
+			"cena": 50500,
+			"lokacija": "Okolina Nisa",
+			"velicina": 20,
+			"velicinaplaca": 20,
+			"napomena":"neka napomena"
+			},
+			{
+			"id": 3,
+			"vlasnik_id": 3,
+			"cena": 50400,
+			"lokacija": "Okolina Nisa",
+			"velicina": 20,
+			"velicinaplaca": 20,
+			"napomena":"neka napomena"
+			},
+			{
+			"id": 4,
+			"vlasnik_id": 1,
+			"cena": 50200,
+			"lokacija": "Okolina Nisa",
+			"velicina": 20,
+			"velicinaplaca": 20,
+			"napomena":"neka napomena"
+			},
+			{
+			"id": 5,
+			"vlasnik_id": 1,
+			"cena": 52300,
+			"lokacija": "Okolina Nisa",
+			"velicina": 20,
+			"velicinaplaca": 20,
+			"napomena":"neka napomena"
+			}
 	]
 }
