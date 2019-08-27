@@ -141,5 +141,41 @@
 			"velicinaplaca": 20,
 			"napomena":"neka napomena"
 			}
-	]
+	],
+	"korisnik":[
+	{
+		"idkorisnik": 1,
+		"ime": "Stefan",
+		"prezime": "Milojevic",
+		"telefon": 21321321,
+		"email": "nekimail@gmail.com"
+	},
+	{
+		"idkorisnik": 2,
+		"ime": "Drugi",
+		"prezime": "DrugiMilojevic",
+		"telefon": 21321321,
+		"email": "nekimail@gmail.com"
+	},
+	{
+		"idkorisnik": 3,
+		"ime": "Treci",
+		"prezime": "Milojevic",
+		"telefon": 21321321,
+		"email": "neki4mai2l@gmail.com"
+	},
+	{
+		"idkorisnik": 4,
+		"ime": "Cetvrti",
+		"prezime": "Milojevic",
+		"telefon": 21321321,
+		"email": "neki3mail@gmail.com"
+	},
+	{
+		"idkorisnik": 5,
+		"ime": "Peti",
+		"prezime": "Milojevic",
+		"telefon": 21321321,
+		"email": "nekimail@gmail.com"
+	}]
 }
