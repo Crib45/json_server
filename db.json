@@ -80,7 +80,7 @@
 			"velicina": 50,
 			"tipgradnje": "Neki tip gradnje",
 			"napomena": "Neka napomena",
-		"url": "https://i.imgur.com/5gJv9KU.jpg"
+			"url": "https://i.imgur.com/5gJv9KU.jpg"
 	},
 	{
 			"id": 3,
@@ -90,7 +90,7 @@
 			"velicina": 50,
 			"tipgradnje": "Neki tip gradnje",
 			"napomena": "Neka napomena",
-		"url": "https://i.imgur.com/5gJv9KU.jpg"
+			"url": "https://i.imgur.com/5gJv9KU.jpg"
 	},
 	{
 			"id": 4,
@@ -100,7 +100,7 @@
 			"velicina": 50,
 			"tipgradnje": "Neki tip gradnje",
 			"napomena": "Neka napomena",
-		"url": "https://i.imgur.com/5gJv9KU.jpg"
+			"url": "https://i.imgur.com/5gJv9KU.jpg"
 	}
 	],
 	"vikendice":[
