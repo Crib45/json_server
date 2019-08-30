@@ -12,7 +12,8 @@
 			"grad": "Nis",
 			"velicina": 50,
 			"napomena": "Neka napomena",
-			"starost": 2
+			"starost": 2,
+			"url": "https://i.imgur.com/5KY774I.jpg"
 		},
 		{
 			"id": 2,
@@ -26,7 +27,8 @@
 			"grad": "Beograd",
 			"velicina": 50,
 			"napomena": "Neka napomena",
-			"starost": 2
+			"starost": 2,
+			"url": "https://i.imgur.com/5KY774I.jpg"
 		},
 		{
 			"id": 3,
@@ -40,7 +42,8 @@
 			"grad": "Nis",
 			"velicina": 50,
 			"napomena": "Treci",
-			"starost": 2
+			"starost": 2,
+			"url": "https://i.imgur.com/5KY774I.jpg"
 		},
 		{
 			"id": 4,
@@ -54,7 +57,8 @@
 			"grad": "Nis",
 			"velicina": 50,
 			"napomena": "Neka napomena",
-			"starost": 2
+			"starost": 2,
+			"url": "https://i.imgur.com/5KY774I.jpg"
 		}
 	],
 	"kuce": [
