@@ -199,7 +199,8 @@
 	"lokacija": "Centar",
 	"velicina": 25,
 	"napomena": "nesto",
-	"vlasnik_id": "1"
+	"vlasnik_id": "1",
+	"url":"https://i.imgur.com/fcrf2j4.jpg"
 	},{
 	"id":2,
 	"cena": 25000,
@@ -207,7 +208,8 @@
 	"lokacija": "Centar",
 	"velicina": 25,
 	"napomena": "nesto",
-	"vlasnik_id": "1"
+	"vlasnik_id": "1",
+	"url":"https://i.imgur.com/fcrf2j4.jpg"
 	},
 	{
 	"id":3,
