@@ -69,7 +69,8 @@
 			"grad": "Nis",
 			"velicina": 50,
 			"tipgradnje": "Neki tip gradnje",
-			"napomena": "Neka napomena"
+			"napomena": "Neka napomena",
+			"url": "https://imgur.com/a/53GCWO9"
 	},
 	{
 			"id": 2,
@@ -78,7 +79,8 @@
 			"grad": "Nis",
 			"velicina": 50,
 			"tipgradnje": "Neki tip gradnje",
-			"napomena": "Neka napomena"
+			"napomena": "Neka napomena",
+		"url": "https://imgur.com/a/53GCWO9"
 	},
 	{
 			"id": 3,
@@ -87,7 +89,8 @@
 			"grad": "Nis",
 			"velicina": 50,
 			"tipgradnje": "Neki tip gradnje",
-			"napomena": "Neka napomena"
+			"napomena": "Neka napomena",
+		"url": "https://imgur.com/a/53GCWO9"
 	},
 	{
 			"id": 4,
@@ -96,7 +99,8 @@
 			"grad": "Nis",
 			"velicina": 50,
 			"tipgradnje": "Neki tip gradnje",
-			"napomena": "Neka napomena"
+			"napomena": "Neka napomena",
+		"url": "https://imgur.com/a/53GCWO9"
 	}
 	],
 	"vikendice":[
