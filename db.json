@@ -2,6 +2,7 @@
 	"stanovi": [
 		{
 			"id": 1,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 1,
 			"lift": true,
 			"lokacija": "Centar grada",
@@ -17,6 +18,7 @@
 		},
 		{
 			"id": 2,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 2,
 			"lift": true,
 			"lokacija": "Udaljeno od grada",
@@ -32,6 +34,7 @@
 		},
 		{
 			"id": 3,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 1,
 			"lift": true,
 			"lokacija": "Centar grada",
@@ -47,6 +50,7 @@
 		},
 		{
 			"id": 4,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 3,
 			"lift": true,
 			"lokacija": "Centar grada",
@@ -64,6 +68,7 @@
 	"kuce": [
 	{
 			"id": 1,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 1,
 			"cena": 5000,
 			"grad": "Nis",
@@ -74,6 +79,7 @@
 	},
 	{
 			"id": 2,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 1,
 			"cena": 5000,
 			"grad": "Nis",
@@ -84,6 +90,7 @@
 	},
 	{
 			"id": 3,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 1,
 			"cena": 5000,
 			"grad": "Nis",
@@ -106,6 +113,7 @@
 	"vikendice":[
 	{
 			"id": 1,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 1,
 			"cena": 50100,
 			"lokacija": "Okolina Nisa",
@@ -116,6 +124,7 @@
 			},
 			{
 			"id": 2,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 2,
 			"cena": 50500,
 			"lokacija": "Okolina Nisa",
@@ -126,6 +135,7 @@
 			},
 			{
 			"id": 3,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 3,
 			"cena": 50400,
 			"lokacija": "Okolina Nisa",
@@ -136,6 +146,7 @@
 			},
 			{
 			"id": 4,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 1,
 			"cena": 50200,
 			"lokacija": "Okolina Nisa",
@@ -146,6 +157,7 @@
 			},
 			{
 			"id": 5,
+			"naslov": "Neki naslov",
 			"vlasnik_id": 1,
 			"cena": 52300,
 			"lokacija": "Okolina Nisa",
@@ -194,6 +206,7 @@
 	"poslovniprostor":[
 	{
 	"id":1,
+	"naslov": "Neki naslov",
 	"cena": 25000,
 	"grad": "Nis",
 	"lokacija": "Centar",
@@ -203,6 +216,7 @@
 	"url":"https://i.imgur.com/fcrf2j4.jpg"
 	},{
 	"id":2,
+	"naslov": "Neki naslov",
 	"cena": 25000,
 	"grad": "Nis",
 	"lokacija": "Centar",
@@ -213,6 +227,7 @@
 	},
 	{
 	"id":3,
+	"naslov": "Neki naslov",
 	"cena": 25000,
 	"grad": "Nis",
 	"lokacija": "Centar",
@@ -223,6 +238,7 @@
 	},
 	{
 	"id":4,
+	"naslov": "Neki naslov",
 	"cena": 25000,
 	"grad": "Nis",
 	"lokacija": "Centar",
@@ -233,6 +249,7 @@
 	},
 	{
 	"id":5,
+	"naslov": "Neki naslov",
 	"cena": 25000,
 	"grad": "Nis",
 	"lokacija": "Centar",
@@ -243,6 +260,7 @@
 	},
 	{
 	"id":6,
+	"naslov": "Neki naslov",
 	"cena": 25000,
 	"grad": "Nis",
 	"lokacija": "Centar",
